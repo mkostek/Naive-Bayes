@@ -1,0 +1,6 @@
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\bin\Debug\NaiveBayes.pdb
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.exe
+C:\Users\Asus\Documents\SharpDevelop Projects\NaiveBayes\NaiveBayes\obj\Debug\NaiveBayes.pdb
